@@ -1,4 +1,4 @@
 # omkar-demo
 This is my first git repository\
 <br>
-author - Omkar
+author - Omkar Patil
